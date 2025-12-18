@@ -1,10 +1,10 @@
-﻿namespace noMoreAzerty_back.DTOs.Response
+﻿namespace noMoreAzerty_dto.DTOs.Response
 {
-    public class VaultResponseDto
+    public class SharedVaultResponse
     {
         public Guid Id { get; set; }
         public string Name { get; set; } = string.Empty;
         public DateTime CreatedAt { get; set; }
-        public VaultUserResponseDto User { get; set; } = null!;
+        public VaultUserResponse Owner { get; set; } = null!;
     }
 }

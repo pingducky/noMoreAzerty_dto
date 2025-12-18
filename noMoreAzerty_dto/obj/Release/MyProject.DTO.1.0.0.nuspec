@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MyProject.DTO</id>
+    <version>1.0.0</version>
+    <authors>TonNom</authors>
+    <description>Bibliothèque de classes DTO pour MyProject</description>
+    <repository type="git" commit="6ff8be749f64b06ed961bd1666fd34e068745151" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\hugo1\Desktop\NoMoreAzerty\noMoreAzerty_dto\noMoreAzerty_dto\bin\Release\net8.0\noMoreAzerty_dto.dll" target="lib\net8.0\noMoreAzerty_dto.dll" />
+  </files>
+</package>
