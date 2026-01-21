@@ -4,6 +4,7 @@
     {
         public Guid Id { get; set; }
         public string Name { get; set; } = string.Empty;
+        public string PasswordSalt { get; set; } = null!;
         public DateTime CreatedAt { get; set; }
         public VaultUserResponse User { get; set; } = null!;
     }

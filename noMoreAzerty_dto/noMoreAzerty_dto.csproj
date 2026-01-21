@@ -6,7 +6,11 @@
     <Nullable>enable</Nullable>
 
     <PackageId>NoMoreAzerty.Shared</PackageId>
-    <Version>1.0.6</Version>
+	  
+	<Version>1.0.10</Version>
+	<AssemblyVersion>1.0.10.0</AssemblyVersion>
+	<FileVersion>1.0.10.0</FileVersion>
+	  
     <Authors>Hugo</Authors>
     <Company>Hugo</Company>
     <Description>Bibliothèque de classes DTO partagés</Description>
@@ -18,6 +22,7 @@
     <RepositoryType>git</RepositoryType>
     <PackageProjectUrl>https://github.com/pingducky/noMoreAzerty_dto</PackageProjectUrl>
 
+	<GenerateAssemblyInfo>true</GenerateAssemblyInfo>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 

@@ -10,3 +10,15 @@ C:\Users\hugo1\Desktop\NoMoreAzerty\noMoreAzerty_dto\noMoreAzerty_dto\obj\Releas
 C:\Users\hugo1\Desktop\NoMoreAzerty\noMoreAzerty_dto\noMoreAzerty_dto\obj\Release\net8.0\refint\noMoreAzerty_dto.dll
 C:\Users\hugo1\Desktop\NoMoreAzerty\noMoreAzerty_dto\noMoreAzerty_dto\obj\Release\net8.0\noMoreAzerty_dto.pdb
 C:\Users\hugo1\Desktop\NoMoreAzerty\noMoreAzerty_dto\noMoreAzerty_dto\obj\Release\net8.0\ref\noMoreAzerty_dto.dll
+C:\Users\antho\OneDrive\Documents\Cours\M2\Architecture .NET\TP\noMoreAzerty_dto\noMoreAzerty_dto\bin\Release\net8.0\noMoreAzerty_dto.deps.json
+C:\Users\antho\OneDrive\Documents\Cours\M2\Architecture .NET\TP\noMoreAzerty_dto\noMoreAzerty_dto\bin\Release\net8.0\noMoreAzerty_dto.dll
+C:\Users\antho\OneDrive\Documents\Cours\M2\Architecture .NET\TP\noMoreAzerty_dto\noMoreAzerty_dto\bin\Release\net8.0\noMoreAzerty_dto.pdb
+C:\Users\antho\OneDrive\Documents\Cours\M2\Architecture .NET\TP\noMoreAzerty_dto\noMoreAzerty_dto\obj\Release\net8.0\noMoreAzerty_dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documents\Cours\M2\Architecture .NET\TP\noMoreAzerty_dto\noMoreAzerty_dto\obj\Release\net8.0\noMoreAzerty_dto.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documents\Cours\M2\Architecture .NET\TP\noMoreAzerty_dto\noMoreAzerty_dto\obj\Release\net8.0\noMoreAzerty_dto.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documents\Cours\M2\Architecture .NET\TP\noMoreAzerty_dto\noMoreAzerty_dto\obj\Release\net8.0\noMoreAzerty_dto.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\Cours\M2\Architecture .NET\TP\noMoreAzerty_dto\noMoreAzerty_dto\obj\Release\net8.0\noMoreAzerty_dto.sourcelink.json
+C:\Users\antho\OneDrive\Documents\Cours\M2\Architecture .NET\TP\noMoreAzerty_dto\noMoreAzerty_dto\obj\Release\net8.0\noMoreAzerty_dto.dll
+C:\Users\antho\OneDrive\Documents\Cours\M2\Architecture .NET\TP\noMoreAzerty_dto\noMoreAzerty_dto\obj\Release\net8.0\refint\noMoreAzerty_dto.dll
+C:\Users\antho\OneDrive\Documents\Cours\M2\Architecture .NET\TP\noMoreAzerty_dto\noMoreAzerty_dto\obj\Release\net8.0\noMoreAzerty_dto.pdb
+C:\Users\antho\OneDrive\Documents\Cours\M2\Architecture .NET\TP\noMoreAzerty_dto\noMoreAzerty_dto\obj\Release\net8.0\ref\noMoreAzerty_dto.dll

@@ -14,11 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hugo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Bibliothèque de classes DTO partagés")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.6.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.6+6ff8be749f64b06ed961bd1666fd34e068745151")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.10.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.10+ef225b7d296274f62df03d5861bd369ce17405a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("noMoreAzerty_dto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("noMoreAzerty_dto")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.6.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("1.0.10.0")]
 [assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/pingducky/noMoreAzerty_dto")]
 
 // Généré par la classe MSBuild WriteCodeFragment.
